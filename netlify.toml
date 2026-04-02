@@ -4,7 +4,6 @@ publish = ".next"
 
 [build.environment]
 NODE_VERSION = "20.9.0"
-NODE_ENV = "production"
 
 # Cache configuration for optimal performance
 [build.cache]
